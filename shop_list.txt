@@ -1,8 +1,9 @@
 Apples
 Lemons
+Oranges
 Bananas
 Corn
-Dog Food
+More Dog Food
 Cereal
 Bread
 Milk
