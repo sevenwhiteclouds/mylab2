@@ -1,8 +1,11 @@
 Apples
+Lemons
+Oranges
 Bananas
 Corn
-Cat Food
+More Cat and Dog Food
 Cereal
 Bread
 Milk
 Eggs
+Low fat milk
